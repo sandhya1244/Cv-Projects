@@ -1,0 +1,8 @@
+pytesseract
+google-generativeai
+streamlit
+opencv-python
+mediapipe
+numpy
+Pillow
+
